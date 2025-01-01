@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetC#/ProjetC#.csproj": {}
+    "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetCSharpe/ProjetC#.csproj": {}
   },
   "projects": {
-    "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetC#/ProjetC#.csproj": {
+    "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetCSharpe/ProjetC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetC#/ProjetC#.csproj",
+        "projectUniqueName": "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetCSharpe/ProjetC#.csproj",
         "projectName": "ProjetC#",
-        "projectPath": "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetC#/ProjetC#.csproj",
+        "projectPath": "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetCSharpe/ProjetC#.csproj",
         "packagesPath": "/home/colomonos/.nuget/packages/",
-        "outputPath": "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetC#/obj/",
+        "outputPath": "/home/colomonos/Bureau/petit projet/C#/Projet-C-/ProjetCSharpe/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/colomonos/.nuget/NuGet/NuGet.Config"
